@@ -1,0 +1,152 @@
+body {
+  font-family: 'Montserrat';
+}
+
+#title {
+  background-color: #bb7944;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 1.5% 15%;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 3rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 2.0rem;
+}
+
+.nav-item {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+/* Buttons */
+.down-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title image */
+.Title-img {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+/* Features */
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.fcol {
+  color: #D79771;
+  margin-bottom: 1rem;
+}
+
+.fcol:hover {
+  color: #bb7944;
+}
+
+/* Testimonials */
+#testimonials {
+  text-align: center;
+  background-color: #D79771;
+  color: #fff;
+}
+
+.testimonial-img {
+  width: 30%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.testimonial-image {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#press {
+  background-color: #D79771;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-img {
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing */
+#Adop-corner {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.white-section {
+  background-color: #fff;
+}
+.colored-section {
+  background-color: #D79771;
+  color: #fff;
+}
+
+#cta{
+  text-align: center;
+}
+
+#footer{
+  text-align: center;
+}
+.foot{
+  padding: 7% 13%
+}
+.big-heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}

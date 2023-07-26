@@ -1,1 +1,1 @@
-TinDog Starting Files
+DogsHub is a hypothetical website which aims to improve the user experience of adopting a dog. This website is a showcase of my knowledge of responsive web design. This single page website is optimised for large screen, medium screen & also for small screen.
